@@ -1,2 +1,2 @@
-# DrawingBad
+# DrawingBed
 图床
